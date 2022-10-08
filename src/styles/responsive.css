@@ -1,0 +1,8 @@
+@media screen and (min-width: 1024px) {
+	.content {
+		margin: 5% 2%;
+		padding: 5% 2%;
+		font-size: 17px;
+	}
+
+}
